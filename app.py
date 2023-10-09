@@ -5,10 +5,6 @@ from fastapi.responses import HTMLResponse, RedirectResponse
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
 
-# API Key3.5       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
-# API Key4(easton) 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
-# API key4.0       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
-
 openai.api_key = "your key here!"
 
 templates = Jinja2Templates(directory=".")
