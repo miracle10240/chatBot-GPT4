@@ -2,7 +2,7 @@
 Open AI chatGPT
 GPT4, FastAPI, Ajax
 =====================
-
+__EASY TO USE___
 
 Setup and usage
 ----------------
