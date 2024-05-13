@@ -5,7 +5,7 @@ from fastapi.responses import HTMLResponse, RedirectResponse
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
 
-openai.api_key = "your key here!"
+openai.api_key = "YOUR KEY IS HERE!"
 
 templates = Jinja2Templates(directory=".")
 app = FastAPI()
